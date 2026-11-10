@@ -1,0 +1,18 @@
+# Виртуальное окружение Python
+.venv/
+venv/
+
+# Временные файлы Python
+__pycache__/
+*.pyc
+
+# Кэш тестов pytest
+.pytest_cache/
+
+# Настройки редактора
+.vscode/
+
+# Локальный адрес учебного сервера
+configuration.py
+.pytest/
+.idea/
